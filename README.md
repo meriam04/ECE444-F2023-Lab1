@@ -1,4 +1,5 @@
 # Meriam Fourati -- Lab1: Flasky Web Development
+
 This repo is a clone of https://github.com/miguelgrinberg/flasky 
 ## Activity 1
 A screenshot showing that you have successfully finish the task (with a timestamp).
