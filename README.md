@@ -1,11 +1,7 @@
-Flasky
-======
+# Meriam Fourati -- Lab1: Flasky Web Development
 
-This repository contains the source code examples for the second edition of my O'Reilly book [Flask Web Development](http://www.flaskbook.com).
-
-The commits and tags in this repository were carefully created to match the sequence in which concepts are presented in the book. Please read the section titled "How to Work with the Example Code" in the book's preface for instructions.
-
-For Readers of the First Edition of the Book
---------------------------------------------
-
-The code examples for the first edition of the book were moved to a different repository: [https://github.com/miguelgrinberg/flasky-first-edition](https://github.com/miguelgrinberg/flasky-first-edition).
+## Activity 1
+A screenshot showing that you have successfully finish the task (with a timestamp).
+e.g., Activate the virtual environment in the directory created for this lab and import flask in this
+virtual environment
+![](screenshots/activity1.png)
