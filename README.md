@@ -15,3 +15,10 @@ Submission:
 ![](screenshots/activity2-1.png)
 ![](screenshots/activity2-2.png)
 ![](screenshots/activity2-3.png)
+
+## Activity 3
+Submission:
+- A commit message indicating that you finish activity 3.
+- A screenshot showing that you have successfully finish the task
+![](screenshots/activity3-commit.png)
+![](screenshots/activity3-app.png)
