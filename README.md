@@ -28,7 +28,7 @@ Submission:
 ![](screenshots/activity3-app.png)
 
 ## Activity 4
-- Two commit messages indicating you finish Step 1&2 above.\
+- Two commit messages indicating you finish Step 1&2 above.
 - Four screenshots as described above.
 
 ![](screenshots/activity4-5.png)
